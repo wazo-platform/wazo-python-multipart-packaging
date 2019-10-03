@@ -1,1 +1,0 @@
-extend-diff-ignore = "(^|/)(\.gitignore|\.pybuild/.*|README.md|VERSION|AUTHORS)$"
