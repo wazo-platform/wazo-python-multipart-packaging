@@ -1,0 +1,11 @@
+Format: http://www.debian.org/doc/packaging-manuals/Copyright 1-2019 The Wazo Authors  (see the AUTHORS file)
+Upstream-Name: multipart
+Source: https://github.com/andrew-d/python-multipart
+
+Files: *
+Copyright: Andrew Dunham
+License: Apache 2
+
+Files: debian/*
+Copyright: 2019 The Wazo Authors  (see the AUTHORS file)
+License: GPL-3
