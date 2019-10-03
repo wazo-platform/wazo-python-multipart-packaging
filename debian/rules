@@ -2,7 +2,7 @@
 
 PKG = $(word 2,$(shell dpkg-parsechangelog | grep Source))
 VERSION ?= $(shell cat VERSION)
-URL_DOWNLOAD = "https://github.com/andrew-d/python-multipart/archive/v${VERSION}.tar.gz"
+URL_DOWNLOAD = "https://files.pythonhosted.org/packages/46/40/a933ac570bf7aad12a298fc53458115cc74053474a72fbb8201d7dc06d3d/python-multipart-${VERSION}.tar.gz"
 export PYBUILD_NAME=python-multipart
 export PYBUILD_DISABLE=test
 export PYBUILD_SYSTEM=distutils
