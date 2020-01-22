@@ -14,5 +14,8 @@ Architecture: all
 Depends: ${misc:Depends},
          ${python3:Depends},
          python3-yaml,
-Description: Streaming multipart parser for Python.
+Description: Streaming multipart parser for Python
  .
+ python-multipart is an Apache2 licensed streaming multipart parser
+ for Python. It's still under some development, but test coverage is
+ currently 100%.

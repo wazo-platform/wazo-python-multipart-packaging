@@ -1,3 +1,9 @@
+wazo-python-multipart-packaging (0.0.5-1~wazo2) wazo-dev-buster; urgency=medium
+
+  * rebuild
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Thu, 23 Jan 2020 14:58:34 +0100
+
 wazo-python-multipart-packaging (0.0.5-1~wazo1) wazo-dev-buster; urgency=medium
 
   * Initial release
